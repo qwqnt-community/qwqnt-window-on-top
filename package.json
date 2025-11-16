@@ -1,7 +1,7 @@
 {
   "$schema": "./plugin.schema.json",
   "name": "qwqnt-window-on-top",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "添加窗口置顶按钮",
   "type": "module",
   "scripts": {

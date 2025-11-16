@@ -1,4 +1,4 @@
-# QwQNT-WindowOnTop
+# qwqnt-window-on-top
 
 QwQNT 插件，让窗口有置顶功能
 
